@@ -1,4 +1,5 @@
-### 🐈 Hey there! I am using GitHub.
+<p align="center"><strong>Welcome to my github profile.</strong></p>
+<p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 <a> <img src="https://komarev.com/ghpvc/?username=wimbiyoashizkia&style=flat-square" alt="wimbiyoashizkia" /> </a>
 [![Years Badge](https://badges.pufler.dev/years/wimbiyoashizkia)](https://badges.pufler.dev)
