@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wimbiyoashizkia&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
 
-<a> <img align="right" src="https://komarev.com/ghpvc/?username=wimbiyoashizkia&style=flat-square" alt="wimbiyoashizkia" /> </a>
+<img align="right" src="https://komarev.com/ghpvc/?username=wimbiyoashizkia&style=flat-square" alt="wimbiyoashizkia" /> </a>
 
 [![Repos Badge](https://badges.pufler.dev/repos/wimbiyoashizkia)](https://badges.pufler.dev)
 
